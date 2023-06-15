@@ -17,9 +17,7 @@
 
 <br/>  
 
-<summary> My Skill Set </summary>
-
-### Languages and Tools:  
+## Languages and Tools:  
 <div align="center">  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -36,7 +34,7 @@
 
 <br/>  
 
-<summary> Connect with me </summary><div align="center">
+## Connect with me
 <a href="https://github.com/santiagoest" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
